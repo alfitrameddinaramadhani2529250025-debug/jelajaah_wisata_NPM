@@ -80,8 +80,25 @@ class MainScreen extends StatelessWidget {
               ],
             )
 
-            const SizedBox(height: ,)
+            const SizedBox(height: 22),
 
+            const Text(
+             'Tentang wisata',
+             style: TextStyle(
+              fontSize: 19,
+              fontWeight: FontWeight.bold,
+
+             ), 
+            )
+            const SizedBox(height: 22),
+
+            const Text(
+              'Stone Garden menawarkan pemandangan alam'
+              'yang unik dengan hamparan batu dan perbukitan'
+              'Tempat omo cocok untuk menikmati udara segar'
+              'serta mengabadikan momen bersama keluarga'
+              textAlign: ,
+            )
 
 
           ],),
